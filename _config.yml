@@ -20,9 +20,9 @@ plugins:
   - jekyll-gist
 
 # SEO
-twitter:
-  username: fredrikaverpil
-  url: https://twitter.com/fredrikaverpil
+# twitter:
+#   username: fredrikaverpil
+#   url: https://twitter.com/fredrikaverpil
 social:
   name: Julian Steitz
 

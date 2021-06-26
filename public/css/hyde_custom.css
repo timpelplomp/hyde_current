@@ -185,6 +185,16 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+
+/* unnlp_theme */
+.unnlp_theme .sidebar {
+  background-color: #2d4e29;
+}
+.unnlp_theme .content a,
+.unnlp_theme .related-posts li a:hover {
+  color: #804610;
+}
+
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
