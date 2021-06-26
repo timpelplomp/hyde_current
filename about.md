@@ -14,7 +14,7 @@ blog@unnlp.com
 
 ## Blog metadata
 
-This blog is based on the [Hyde]({{ site.hyde_repo }}) theme (v{{ site.hyde_version }}) for [Poole](http://getpoole.com), which is sadly unsupported at the time of writing (2021), running on [Github Pages](https://pages.github.com) but with some modifications, mostly by fredrikaverpil/fredrikaverpil.github.io :
+This blog is based on the [Hyde]({{ site.hyde_repo }}) theme (v{{ site.hyde_version }}) for [Poole](http://getpoole.com), which is sadly unsupported at the time of writing (2021), running on [Github Pages](https://pages.github.com) but with some modifications, mostly by [frederikaverpil](fredrikaverpil/fredrikaverpil.github.io):
 
 - Tags
 - Post archive
