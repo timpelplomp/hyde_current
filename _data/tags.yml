@@ -2,4 +2,6 @@ python:
   name: Python
 pyside:
   name: PySide
+research:
+  name: Research
 
