@@ -16,7 +16,7 @@ blog@unnlp.com
 
 ## Blog info
 
-This blog is based on the excellent [Hyde]({{ site.hyde_repo }}) theme (v{{ site.hyde_version }}) for [Poole](http://getpoole.com), running on [Github Pages](https://pages.github.com) but with some modifications:
+This blog is based on the excellent [Hyde]({{ site.hyde_repo }}) theme (v{{ site.hyde_version }}) for [Poole](http://getpoole.com), running on [Github Pages](https://pages.github.com) but with some modifications, mostly by  fredrikaverpil/fredrikaverpil.github.io :
 
 - Tags
 - Post archive
@@ -29,5 +29,6 @@ This blog is based on the excellent [Hyde]({{ site.hyde_repo }}) theme (v{{ site
 - Comments (option to use Google+ or Disqus)
 - Switch to https if accessing site through http
 - Jekyll SEO
+- Font changed to subjectively improve the design
 
 The source code for this blog is available [here]({{ site.github.repo }}).
