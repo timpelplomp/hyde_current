@@ -4,7 +4,7 @@ title: 'Send HEY mail with forwarding address using Office365 SMTP'
 tags: [workflow]
 ---
 
-[HEY mail](https://hey.com/) announced a while back you can [send emails from external email addresses using SMTP](https://hey.com/features/send-as/). Just the other day, they now finally also announced that [their take on custom domains](https://hey.com/domains/).
+[HEY mail](https://hey.com/) ANNOUNCED a while back you can [send emails from external email addresses using SMTP](https://hey.com/features/send-as/). Just the other day, they now finally also announced that [their take on custom domains](https://hey.com/domains/).
 
 I've been waiting to hook up my existing HEY mail address with my custom domain's forwarding addresses, so that I don't have to set up MX records for email on my custom domain's DNS.
 

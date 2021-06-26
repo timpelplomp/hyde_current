@@ -9,7 +9,8 @@ Throughout the years I've been spending my professional life within the digital 
 
 ## Get in touch!
 
-blog@unnlp.com 
+blog@unnlp.com
+
 [twitter.com/fredrikaverpil](https://twitter.com/fredrikaverpil)  
 [github.com/fredrikaverpil](https://github.com/fredrikaverpil)  
 [linkedin.com/in/fredrik](https://linkedin.com/in/fredrik)
@@ -25,10 +26,10 @@ This blog is based on the excellent [Hyde]({{ site.hyde_repo }}) theme (v{{ site
 - Pinch and zoom on touch devices
 - Video embeds with fluidvids.js
 - Rouge syntax highlighter, modified version of [`dracula.css`](https://github.com/dracula/pygments)
-- Google Analytics
-- Comments (option to use Google+ or Disqus)
 - Switch to https if accessing site through http
 - Jekyll SEO
 - Font changed to subjectively improve the design
+- Removed comment functionality
+- Removed Google Analytics, a personal pet peeve
 
 The source code for this blog is available [here]({{ site.github.repo }}).

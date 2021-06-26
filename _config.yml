@@ -6,13 +6,13 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: Fredrik Averpil
+title: Julian Steitz
 tagline: My personal blog
-description: My personal blog – on Python development, 3D graphics, compositing and photography.
-url: https://fredrikaverpil.github.io
+description: My personal blog, chiefly concerned with (un)natural language processing and Python. Musings about tea and everything else might be included.
+url: https://unnlp.com
 
 paginate: 5
-name: Fredrik Averpil
+name: Julian Steitz
 
 plugins:
   - jekyll-seo-tag
@@ -24,20 +24,21 @@ twitter:
   username: fredrikaverpil
   url: https://twitter.com/fredrikaverpil
 social:
-  name: Fredrik Averpil
+  name: Julian Steitz
+
   links:
-    - https://linkedin.com/in/fredrik
-    - https://www.facebook.com/fredrik.averpil
-    - https://github.com/fredrikaverpil
+    #- https://linkedin.com/in/fredrik
+    #- https://www.facebook.com/fredrik.averpil
+    - https://github.com/timpelplomp
 
 # Custom vars
 custom_pages:
   feed: /atom.xml
 github:
-  url: https://github.com/fredrikaverpil
-  repo: https://github.com/fredrikaverpil/fredrikaverpil.github.io
+  url: https://github.com/timpelplomp
+  repo: https://github.com/timpelplomp/hyde_current
 excerpt_separator: <!--more-->
-google_analytics: UA-70773524-1
+# google_analytics: UA-70773524-1
 hyde_version: 2.1.0
 hyde_url: http://hyde.getpoole.com
 hyde_repo: https://github.com/poole/hyde
@@ -46,6 +47,6 @@ force_https: true
 
 # Comments
 comments:
-  use_disqus: true
+  use_disqus: false
   use_googleplus: false
-  disqus_shortname: ffredrikk
+  # disqus_shortname: ffredrikk
