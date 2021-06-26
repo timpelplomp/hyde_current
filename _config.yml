@@ -6,8 +6,8 @@ highlighter: rouge
 permalink: pretty
 
 # Setup
-title: Julian Steitz
-tagline: My personal blog
+title: Unnatural language processing
+tagline: Julian Steitz's personal blog
 description: My personal blog, chiefly concerned with (un)natural language processing and Python. Musings about tea and everything else might be included.
 url: https://unnlp.com
 
