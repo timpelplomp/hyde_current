@@ -188,10 +188,20 @@ a.sidebar-nav-item:focus {
 
 /* unnlp_theme */
 .unnlp_theme .sidebar {
-  background-color: #2d4e29;
+  background-color: #084b16;
 }
 .unnlp_theme .content a,
 .unnlp_theme .related-posts li a:hover {
+  color: #522902;
+}
+
+
+/* aubergine_theme #1c1e8d */
+.aubergine_theme .sidebar {
+  background-color: #035170;
+}
+.aubergine_theme .content a,
+.aubergine_theme .related-posts li a:hover {
   color: #522902;
 }
 
