@@ -25,7 +25,7 @@ What follows is a non-exhaustive list of personal alterations to the design and 
 - Removed comment functionality
 - Removed Google Analytics, a personal pet peeve
 - Switched from a dark syntax theme to [pygments'](https://pygments.org/) default setting for a more welcoming feel
-- Dealt with irregularities occuring when filtering by tags
+- Dealt with irregularities occurring when filtering by tags
 
 
 The source code for this blog is available [here]({{ site.github.repo }}).
