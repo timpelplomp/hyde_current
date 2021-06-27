@@ -196,13 +196,20 @@ a.sidebar-nav-item:focus {
 }
 
 
-/* aubergine_theme #1c1e8d */
-.aubergine_theme .sidebar {
-  background-color: #035170;
+/* blue_theme #035170 
+9CAF00
+complementary: B25D00
+
+alternatively::
+324D66
+9D7A47
+*/
+.blue_theme .sidebar {
+  background-color: #243E58;
 }
-.aubergine_theme .content a,
-.aubergine_theme .related-posts li a:hover {
-  color: #522902;
+.blue_theme .content a,
+.blue_theme .related-posts li a:hover {
+  color: #886431;
 }
 
 /* Red */

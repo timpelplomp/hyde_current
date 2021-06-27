@@ -26,6 +26,6 @@ What follows is a non-exhaustive list of personal alterations to the design and 
 - Removed Google Analytics, a personal pet peeve
 - Switched from a dark syntax theme to [pygments'](https://pygments.org/) default setting for a more welcoming feel
 - Dealt with irregularities occurring when filtering by tags
-
+- Changed to blog's favicon to something that could eventually resemble either a teacup or a book.
 
 The source code for this blog is available [here]({{ site.github.repo }}).
