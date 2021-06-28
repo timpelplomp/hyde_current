@@ -15,7 +15,9 @@ blog@unnlp.com
 [github.com/timpelplomp]({{ site.github.url }})  
 
 
-## Blog metadata
+## Details about the blog
+
+This blog does not track you in any way, which explains the blissful absence of any cookie banners.
 
 This blog is based on the [Hyde]({{ site.hyde_repo }}) theme (v{{ site.hyde_version }}) for [Poole](http://getpoole.com), which is sadly unsupported at the time of writing (2021), running on [Github Pages](https://pages.github.com) but with some modifications, mostly by [frederikaverpil](https://github.com/fredrikaverpil/fredrikaverpil.github.io). 
 What follows is a non-exhaustive list of personal alterations to the design and site:
