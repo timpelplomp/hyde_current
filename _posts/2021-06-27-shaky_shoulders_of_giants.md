@@ -6,9 +6,9 @@ tags: [python, research]
 > I say with Didacus Stella, a dwarf standing on the shoulders of a giant may see farther than a giant himself.
 
 This quote from *The Anatomy of Melancholy* (1624) by Robert Burton, illustrates the advantages of building on already existing solutions in one's quest to achieve or surpass the state of the art in any number of fields.
-In academic writing, especially at the student level, we often subconciously ignore the reality that base-level processing steps are not yet *solved*. 
+In academic writing, especially at the student level, we often subconsciously ignore the reality that base-level processing steps are not yet *solved*. 
 
-In other words: while we[^dw] might see farther than the giants our feet rest upon, we often neglect to to look at the giant itself, lest we be made aware of the staggering heights separating us from the ground.
+In other words: while we[^dw] might see farther than the giants our feet rest upon, we often neglect to look at the giant itself, lest we be made aware of the staggering heights separating us from the ground.
 <!--more-->
 
 For the purposes of NLP[^1], this means that we often neglect to examine the foundational technology our approaches depend upon. While this is understandable[^under] for papers limited to a specific size, such as the eight pages commonly requested by the [ACL](https://www.aclweb.org/portal/what-is-cl)[^acl], writing produced at a student level has no similar excuse. Failing to at least acknowledge the reality that even the most basic step, like tokenisation[^2], can yield errors, is a sign of insufficient reflection of the subject matter. 
