@@ -8,7 +8,7 @@ permalink: pretty
 # Setup
 title: Unnatural language processing
 tagline: Julian Steitz's personal blog
-description: My personal blog, chiefly concerned with (un)natural language processing and Python. Might inlcude musings on tea and a variety of similarly important topics.
+description: My personal blog, chiefly concerned with (un)natural language processing and Python. Might include musings on tea and a variety of similarly important topics.
 url: https://unnlp.com/
 
 paginate: 5
